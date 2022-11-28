@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Practice_For7 {
 	public static void main(String[] args) {
+		//º°Âï±â2
 
 		Scanner sc = new Scanner(System.in);
 
