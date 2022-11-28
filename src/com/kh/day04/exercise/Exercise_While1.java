@@ -16,5 +16,7 @@ public class Exercise_While1 {
 			}
 		}
 		System.out.println(result);
+		
+		//if문 대신 i=i+2 or i+=2로 표현 가능
 	}
 }
