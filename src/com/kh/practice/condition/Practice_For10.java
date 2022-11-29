@@ -11,7 +11,10 @@ public class Practice_For10 {
 		System.out.print("정수 입력 : ");
 		int num = sc.nextInt();
 		
+		//for (i =0; i <4; i++) {
+			
+		}
+		
 		
 	}
 
-}

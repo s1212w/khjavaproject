@@ -1,4 +1,4 @@
-package com.kh.day04.exercise;
+package com.kh.practice.array;
 
 public class Exercise_Array1 {
 	public static void main(String [] args) {

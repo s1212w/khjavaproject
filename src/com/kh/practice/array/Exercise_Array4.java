@@ -1,4 +1,4 @@
-package com.kh.day04.exercise;
+package com.kh.practice.array;
 
 import java.util.Arrays;
 

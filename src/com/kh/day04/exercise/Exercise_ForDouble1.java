@@ -10,6 +10,7 @@ public class Exercise_ForDouble1 {
 				System.out.print(j + " * " + i + " = " + i * j + "\t");
 			}
 			System.out.println();
+			
 		}
 
 	}
