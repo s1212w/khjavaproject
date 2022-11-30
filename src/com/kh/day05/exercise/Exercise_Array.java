@@ -21,6 +21,7 @@ public class Exercise_Array {
 		// 딸기, 복숭아, 키위, 사과, 바나나로 초기화 한 후,
 		// for문을 활용해서 바나나가 있으면 바나나를 출력해보세요.
 		String[] fruits = { "딸기", "복숭아", "키위", "사과", "바나나" };
+		// String[] fruits = new String[5];
 //		arrayList2[0] = "딸기";
 //		arrayList2[1] = "복숭아";
 //		arrayList2[2] = "키위";
@@ -110,6 +111,24 @@ public class Exercise_Array {
 
 		for (int i = 0; i < origin.length; i++) {
 			System.out.print(origin[i]);
+		}
+	}
+
+	public void exercise6() {
+		int[] nums = { 1, 2, 3, 4, 5 }; // 할당과 초기화 동시에
+//		for (int i = 0; i < nums.length; i++) { 
+//			System.out.print(nums[i]); 
+//		}
+
+		for (int a : nums) {
+			System.out.println(a);
+		}
+	}
+
+	public void exercise7() {
+		String[] fruits = { "딸기", "복숭아", "포도", "체리", "망고" };
+		for (String fruit : fruits) {
+			System.out.print(fruit + " ");
 		}
 	}
 }

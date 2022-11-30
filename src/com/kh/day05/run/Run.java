@@ -21,7 +21,11 @@ public class Run {
 		
 	//	exArr.exercise4();
 		
-		exArr.exercise5();
+//		exArr.exercise5();
+		
+//	exArr.exercise6();
+		
+		exArr.exercise7();
 		
 		
 		

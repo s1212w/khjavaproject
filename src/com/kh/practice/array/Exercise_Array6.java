@@ -30,7 +30,9 @@ public class Exercise_Array6 {
 			System.out.print("입력하고 싶은 개수 : ");
 			int answer_number = sc.nextInt();
 			num = arrayList.length + answer_number;
-			// for (int j = )
+			arrayList = new String[num];
+			
+		
 
 		} else if (answer == 'N') {
 			System.out.println(Arrays.toString(arrayList));
