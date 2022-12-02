@@ -6,6 +6,8 @@ public class Exercise_Array7 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		// 소수 찾기
 
 		Scanner sc = new Scanner(System.in);
 

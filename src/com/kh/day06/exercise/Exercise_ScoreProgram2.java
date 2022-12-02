@@ -23,7 +23,7 @@ public class Exercise_ScoreProgram2 {
 				goodByeMsg();
 				break HOME;
 				
-			case 4:
+			default:
 				printException();
 				break;
 			}
