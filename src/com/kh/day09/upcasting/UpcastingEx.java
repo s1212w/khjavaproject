@@ -7,8 +7,8 @@ public class UpcastingEx {
 		
 		Person p;
 		Student s = new Student("일용자");
-	//	p = new Person()
-		p = s; //업캐스팅
+		p = s;
+		//Person p = new Student("일용자"); //업캐스팅
 				
 		System.out.println(p.name);
 	

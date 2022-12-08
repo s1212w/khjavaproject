@@ -5,7 +5,7 @@ class Weapon {
 	public Weapon() {
 	}
 
-	public Weapon(int value) {
+	public void Weapon(int value) {
 		System.out.println(value);
 	}
 
@@ -44,6 +44,8 @@ public class MethodOverloadingEx {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		Weapon wp = new Weapon();
+		wp.Weapon(3);
 		System.out.println();
 		System.out.println("Hello");
 		System.out.println(1);
